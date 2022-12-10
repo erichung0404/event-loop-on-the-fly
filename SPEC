@@ -1,0 +1,8 @@
+Requirements
+1. click a button to start the whole event loop
+2. click a button to stop the event loop
+3. click a button to start an event loop
+4. a call stack with execution contexts
+5. a webapi queue with callbacks
+6. a task queue with execution contexts
+7. a microtask queue with execution contexts
